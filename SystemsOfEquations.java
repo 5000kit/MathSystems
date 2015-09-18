@@ -19,7 +19,7 @@ public class SystemsOfEquations
 	
 	static int[] equal = new int[3];
 	
-	static int[] determinantsA = new int[2];
+	static int[] determinantsA = new int[3];
 	
 	public static void main(String[] args)
 	{
